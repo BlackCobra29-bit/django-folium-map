@@ -1,0 +1,1 @@
+# django-folium-map
